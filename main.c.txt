@@ -14,5 +14,5 @@ int main()
     printf("%s\n", CONST_NAME1);
     printf("%s\n", CONST_NAME2);
  
-    return 0;
+    return 1;
 }
